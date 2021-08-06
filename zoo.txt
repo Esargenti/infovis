@@ -1,3 +1,4 @@
 Protovis
 clusters
 choropleth map
+squartified
